@@ -3,8 +3,6 @@ package com.bean;
 public class Appointment {
 	private int id, apid;
 	String name, email, contact, age, day, speciality, description;
-	
-	//Test...............................@@@@@#####$$$$$$$$
 
 	public int getId() {
 		return id;
